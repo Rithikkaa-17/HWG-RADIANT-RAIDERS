@@ -39,9 +39,13 @@ MXene-Gelatin Bio-coating (lab-based)
 HWG-RADIANT-RAIDERS/
 │
 ├── Radiant_Riders.ipynb                      # Main AI + materials notebook
+
 ├── Radiant_Riders_finalmodel_and_webapp.ipynb # Integrated WebApp notebook
+
 ├── FINAL WEB APPLICATION.zip                 # Contains complete web app folder
+
 ├── HACK WITH GUJARAT FINAL PPT.pdf           # Project pitch deck
+
 ├── README.md                                 # Project description and run guide
 
 🛠 How to Setup and Run the Final Web Application(You can use the link to open the app directly : https://radiantraidersrr1721.netlify.app/ )
