@@ -44,7 +44,7 @@ HWG-RADIANT-RAIDERS/
 ├── HACK WITH GUJARAT FINAL PPT.pdf           # Project pitch deck
 ├── README.md                                 # Project description and run guide
 
-🛠 How to Setup and Run the Final Web Application
+🛠 How to Setup and Run the Final Web Application(You can use the link to open the app directly : https://radiantraidersrr1721.netlify.app/ )
 📥 1. Clone the Repository
 git clone https://github.com/Rithikkaa-17/HWG-RADIANT-RAIDERS.git
 cd HWG-RADIANT-RAIDERS
@@ -65,13 +65,6 @@ python app.py
 You will see something like:
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 Open the URL in your browser to access the Smart Hydrogel Implant WebApp.
-
-🌐 Web Application Features
-Upload material parameters.
-
-Get AI-driven bio-adhesive predictions.
-
-Visual interface for experimental inputs and outputs.
 
 📊 AI Capabilities
 Predicts biocompatibility based on MXene-Gelatin ratios.
